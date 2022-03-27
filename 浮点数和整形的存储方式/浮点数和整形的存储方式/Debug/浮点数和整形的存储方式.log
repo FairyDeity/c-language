@@ -1,0 +1,22 @@
+﻿生成启动时间为 2022/3/27 16:11:25。
+     1>项目“E:\c-code\c-language\浮点数和整形的存储方式\浮点数和整形的存储方式\浮点数和整形的存储方式.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\c-code\c-language\浮点数和整形的存储方式\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\浮点数和整形的存储方式.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         f:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "浮点数和整形的存储方式不同.c"
+         浮点数和整形的存储方式不同.c
+       Link:
+         f:\c语言\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c-code\c-language\浮点数和整形的存储方式\Debug\浮点数和整形的存储方式.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\浮点数和整形的存储方式.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\c-code\c-language\浮点数和整形的存储方式\Debug\浮点数和整形的存储方式.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c-code\c-language\浮点数和整形的存储方式\Debug\浮点数和整形的存储方式.lib" /MACHINE:X86 "Debug\浮点数和整形的存储方式不同.obj"
+         浮点数和整形的存储方式.vcxproj -> E:\c-code\c-language\浮点数和整形的存储方式\Debug\浮点数和整形的存储方式.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\c-code\c-language\浮点数和整形的存储方式\Debug\浮点数和整形的存储方式.exe;#1" /manifest "Debug\浮点数和整形的存储方式.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\浮点数和整形的存储方式.unsuccessfulbuild”。
+         正在对“Debug\浮点数和整形的存储方式.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\c-code\c-language\浮点数和整形的存储方式\浮点数和整形的存储方式\浮点数和整形的存储方式.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.33
