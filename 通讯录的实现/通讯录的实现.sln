@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "通讯录的实现", "通讯录的实现\通讯录的实现.vcxproj", "{C7BA64EA-C24A-40D6-B54D-0B0746229EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BA64EA-C24A-40D6-B54D-0B0746229EF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7BA64EA-C24A-40D6-B54D-0B0746229EF2}.Debug|Win32.Build.0 = Debug|Win32
+		{C7BA64EA-C24A-40D6-B54D-0B0746229EF2}.Release|Win32.ActiveCfg = Release|Win32
+		{C7BA64EA-C24A-40D6-B54D-0B0746229EF2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
