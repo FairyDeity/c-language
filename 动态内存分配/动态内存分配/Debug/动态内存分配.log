@@ -1,22 +1,23 @@
-﻿生成启动时间为 2022/4/8 20:35:04。
+﻿生成启动时间为 2022/4/9 8:49:30。
      1>项目“E:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在对“Debug\动态内存分配.unsuccessfulbuild”执行 Touch 任务。
        ClCompile:
          f:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "动态内存分配.c"
          动态内存分配.c
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(70): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(71): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(73): error C2065: “value”: 未声明的标识符
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(75): error C2065: “count”: 未声明的标识符
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(76): error C2065: “count”: 未声明的标识符
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(87): error C2065: “count”: 未声明的标识符
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(89): error C2065: “count”: 未声明的标识符
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(97): error C2065: “count”: 未声明的标识符
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(97): error C2065: “value”: 未声明的标识符
-     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(101): error C2065: “count”: 未声明的标识符
-     1>已完成生成项目“E:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.vcxproj”(build 个目标)的操作 - 失败。
+     1>e:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.c(13): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c语言\vc\include\string.h(157) : 参见“strerror”的声明
+       Link:
+         f:\c语言\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c-code\c-language\动态内存分配\Debug\动态内存分配.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\动态内存分配.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\c-code\c-language\动态内存分配\Debug\动态内存分配.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c-code\c-language\动态内存分配\Debug\动态内存分配.lib" /MACHINE:X86 "Debug\动态内存分配.obj"
+         LINK : 没有找到 E:\c-code\c-language\动态内存分配\Debug\动态内存分配.exe 或上一个增量链接没有生成它；正在执行完全链接
+         动态内存分配.vcxproj -> E:\c-code\c-language\动态内存分配\Debug\动态内存分配.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\c-code\c-language\动态内存分配\Debug\动态内存分配.exe;#1" /manifest "Debug\动态内存分配.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\动态内存分配.unsuccessfulbuild”。
+         正在对“Debug\动态内存分配.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\c-code\c-language\动态内存分配\动态内存分配\动态内存分配.vcxproj”(build 个目标)的操作。
 
-生成失败。
+生成成功。
 
-已用时间 00:00:00.37
+已用时间 00:00:02.50
