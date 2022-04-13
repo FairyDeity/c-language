@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "动态内存_04_13", "动态内存_04_13\动态内存_04_13.vcxproj", "{8CEAF549-277C-482D-9071-264877757C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CEAF549-277C-482D-9071-264877757C81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8CEAF549-277C-482D-9071-264877757C81}.Debug|Win32.Build.0 = Debug|Win32
+		{8CEAF549-277C-482D-9071-264877757C81}.Release|Win32.ActiveCfg = Release|Win32
+		{8CEAF549-277C-482D-9071-264877757C81}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
