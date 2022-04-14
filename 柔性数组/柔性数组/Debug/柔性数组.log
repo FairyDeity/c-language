@@ -1,0 +1,42 @@
+﻿生成启动时间为 2022/4/14 21:05:20。
+     1>项目“E:\c-code\c-language\柔性数组\柔性数组\柔性数组.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\柔性数组.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         f:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "柔性数组.c"
+         柔性数组.c
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(67): warning C4013: “malloc”未定义；假设外部返回 int
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(68): warning C4047: “=”:“int []”与“int”的间接级别不同
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(68): error C2106: “=”: 左操作数必须为左值
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(69): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(70): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(70): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(70): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(72): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(72): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(75): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(75): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(75): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(77): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(80): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(81): error C2065: “ptr”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(81): warning C4047: “!=”:“int”与“void *”的间接级别不同
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(83): error C2065: “ptr”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(83): warning C4047: “=”:“int []”与“int”的间接级别不同
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(83): error C2106: “=”: 左操作数必须为左值
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(85): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(85): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(85): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(87): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(87): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(89): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(89): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(89): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(91): error C2065: “i”: 未声明的标识符
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(94): warning C4013: “free”未定义；假设外部返回 int
+     1>e:\c-code\c-language\柔性数组\柔性数组\柔性数组.c(95): error C2106: “=”: 左操作数必须为左值
+     1>已完成生成项目“E:\c-code\c-language\柔性数组\柔性数组\柔性数组.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.32
