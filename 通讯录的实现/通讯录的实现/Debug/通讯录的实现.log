@@ -1,41 +1,49 @@
-﻿生成启动时间为 2022/4/7 21:21:21。
+﻿生成启动时间为 2022/4/15 18:13:15。
      1>项目“E:\c-code\c-language\通讯录的实现\通讯录的实现\通讯录的实现.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在对“Debug\通讯录的实现.unsuccessfulbuild”执行 Touch 任务。
        ClCompile:
          f:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt contact.c
          contact.c
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(8): warning C4098: “InitContact”:“void”函数返回值
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(79): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(80): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(89): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(103): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(104): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(113): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(114): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(115): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(116): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(117): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(127): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(128): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(136): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(138): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(140): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(142): error C2065: “pos”: 未声明的标识符
-     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(144): error C2065: “pos”: 未声明的标识符
-     1>已完成生成项目“E:\c-code\c-language\通讯录的实现\通讯录的实现\通讯录的实现.vcxproj”(build 个目标)的操作 - 失败。
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(140): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(165): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(175): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(177): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(181): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>e:\c-code\c-language\通讯录的实现\通讯录的实现\contact.c(183): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\c语言\vc\include\stdio.h(304) : 参见“scanf”的声明
+       Link:
+         f:\c语言\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c-code\c-language\通讯录的实现\Debug\通讯录的实现.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\通讯录的实现.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\c-code\c-language\通讯录的实现\Debug\通讯录的实现.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c-code\c-language\通讯录的实现\Debug\通讯录的实现.lib" /MACHINE:X86 Debug\contact.obj
+         Debug\test.obj
+         LINK : 没有找到 E:\c-code\c-language\通讯录的实现\Debug\通讯录的实现.exe 或上一个增量链接没有生成它；正在执行完全链接
+         通讯录的实现.vcxproj -> E:\c-code\c-language\通讯录的实现\Debug\通讯录的实现.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\c-code\c-language\通讯录的实现\Debug\通讯录的实现.exe;#1" /manifest "Debug\通讯录的实现.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\通讯录的实现.unsuccessfulbuild”。
+         正在对“Debug\通讯录的实现.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\c-code\c-language\通讯录的实现\通讯录的实现\通讯录的实现.vcxproj”(build 个目标)的操作。
 
-生成失败。
+生成成功。
 
-已用时间 00:00:00.78
+已用时间 00:00:01.73
